@@ -1,2 +1,2 @@
 # portail-config-repo
-Repo de configration de l'application portail
+Repo de configuration de l'application portail
